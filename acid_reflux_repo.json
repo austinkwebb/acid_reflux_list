@@ -380,7 +380,7 @@
   {
   "id":"75",
     "name":"Broccoli",
-    "reflux":"ok",
+    "reflux":"avoid",
     "category":"Fruits and vegetables"
   },
   {
@@ -940,5 +940,11 @@
     "name":"Pecans",
     "reflux":"avoid",
     "category":"Nuts and seeds"
+  },
+  {
+    "id":"158",
+    "name":"Almond Milk",
+    "reflux":"avoid",
+    "category":"Dairy"
   }
 ]
